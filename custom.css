@@ -1,0 +1,22 @@
+div.CodeMirror, dic.output_area pre, div.ouput_wrapper pre{
+
+    font-family: Consolas;
+
+    font-size: 13pt;
+
+    line-height: 110%
+
+}
+
+div#notebook, div.prompt{
+
+    font-family: Consolas;
+
+    font-size: 13pt;
+
+    line-height: 110%;
+
+}
+
+
+
